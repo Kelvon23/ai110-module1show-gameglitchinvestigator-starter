@@ -29,6 +29,8 @@ It wrote the code, ran away, and now the game is unplayable.
 - [ ] Detail which bugs you found.
 - [ ] Explain what fixes you applied.
 
+The game purpose is play a guessing game with the user and in which the user will be giving hints about the secret number. The bugs I found were that I wasnt given the proper hints to be accuaretly guess the correct number and was being mislead. And the game was crashing every time I finish playing it once. The fixes we made was to correct the string that had the hint comment mixed up on and we fixed the status that halted the game so we made sure status was reseted back to playing and clearing the previous history. 
+
 ## 📸 Demo
 
 ![Working Game Demo](assets/working_game_photo.png)
